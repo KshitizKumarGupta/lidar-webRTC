@@ -1,4 +1,4 @@
-# Documentation for `lidar-p2p`
+# Documentation for `lidar-webRTC`(Peer-to-Peer Communication)
 
 _Written By: Harish Rohan Kambhampaty (UntitledError-09, harishrohank@gmail.com)_
 
